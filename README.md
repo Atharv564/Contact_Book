@@ -11,6 +11,9 @@ A simple command-line Contact Book application in Python that allows you to crea
 * **Delete Contact**: Remove a contact from the contact book.
 * **Exit**: Close the application.
 
+## Requirements
+* **Python 3.x**
+
 ## How to Use
 
 1. Clone or download the repository:
