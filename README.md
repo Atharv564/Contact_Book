@@ -18,7 +18,7 @@ A simple command-line Contact Book application in Python that allows you to crea
 
 1. Clone or download the repository:
     ```bash
-    git clone https://github.com/yourusername/contact-book.git
+    git clone https://github.com/Atharv564/contact-book.git
     cd contact-book
     ```
 
